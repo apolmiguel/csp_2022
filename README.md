@@ -6,6 +6,7 @@ Short descriptions of the files are the following:
   3. config_energies_dft.sh - Extracts energies from DFT calcualtions to a data file to be read in csp_regression.py.
   4. csp_regression.py - Training of data from cluster energy calculations to find a functional form of the cluster expansion energy. Validation with DFT energies calculated in QE.
 
-This academic project would not be done without the assistance of Stefano de Gironcoli and Franco Pellegrini.
-Added thanks to Edoardo Alessandroni for the assistance with the functions to interface bash scripting, QE, and python.
+This academic project would not be done without the patience and assistance of Stefano de Gironcoli and Franco Pellegrini.
+Added thanks to Edoardo Alessandroni for the helping me interfacing bash scripting and QE with python.
+
 For any questions, send an e-mail to atan@sissa.it.
